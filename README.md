@@ -1,5 +1,6 @@
 # House-Loan-Data-Analysis --- Simplilearn
-     This repository contains the code and documentation for a deep learning model aimed at predicting loan default probabilities using historical loan data.
+     
+This repository contains the code and documentation for a deep learning model aimed at predicting loan default probabilities using historical loan data.
 ## Objective
 The project focuses on leveraging historical loan data to build a robust deep learning model for predicting loan default probabilities, essential for secure lending practices.
 
